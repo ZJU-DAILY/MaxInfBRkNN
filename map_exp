@@ -1,7 +1,0 @@
-// prefix file that contains the map files (i.e., those with .cedge .cnode files)
-//map=LV
-//data=LV_data
-//map=Brightkite
-//data=Brightkite_data
-map=Gowalla
-data=Gowalla_data
