@@ -1,0 +1,24 @@
+# config file 
+
+# phase. Keep it 10.
+phase : 10
+
+# propagation model 
+# IC or LT
+propModel : IC
+
+probGraphFile : datasets/hep_WC.inf
+
+mcruns : 10000
+
+outdir : ../exp/results
+
+budget : 5
+
+# celfPlus
+# 1 for invoking CELF++ code and 0 for invoking CELF code
+celfPlus : 1
+
+# iteration at which CELF++ optimization starts. Recommended value is 2
+startIt : 2
+
