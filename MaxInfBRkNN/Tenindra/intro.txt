@@ -1,0 +1,3 @@
+this directory contains codes to implement road network indexes from the paper "Tenindra Abeywickrama, Muhammad Aamir Cheema, David Taniar:
+k-Nearest Neighbors on Road Networks: A Journey in Experimentation and In-Memory Implementation. Proc. VLDB Endow. 9(6): 492-503 (2016)" 
+ (https://github.com/tenindra/RN-kNN-Exp)
