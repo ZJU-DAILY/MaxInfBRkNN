@@ -1,1 +1,1 @@
-please put all the files of Gowalla datasets downloaded from the online resources into this directory!
+please put all the files of Gowalla dataset downloaded from the online resources into this directory!
