@@ -37,11 +37,11 @@ Open the "config.h" file in MaxInfBRkNN directory, and select the dataset (i.e.,
 ./FileName   -e nvd         
 ```
 
-- **Step 7: test the effectiveness of POI selection policies**   
+- **Step 7: test the effectiveness of POI selection**   
 ```shell 
 ./FileName   -e effective -t g  -s (appro|rele|influ|random) -g 1      
 ```
-- **Step 8: construct the NVDs in our index**   
+- **Step 8: test the performance of our proposed methods**   
 ```shell 
 ./FileName   -e performance -t (k|b|pc|alpha)  -s (base|appro|heuris) -g 1   //test the performance of our methods (base|appro|heuris) when varying paramter settings   
 ```
