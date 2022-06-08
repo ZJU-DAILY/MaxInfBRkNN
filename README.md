@@ -6,7 +6,7 @@ Please refer to paper: https://arxiv.org/abs/2204.10203 for details.
 a 64-bit Linux-based OS;
 
 ## Files 
-All of the C++ source code can be found in "MaxInfBRkNN" directory, the datasets can be downloaded from https://pan.baidu.com/s/1sEZ_2OWEFqaHsII1JB5ziQ, and please put all the files of the corresponding dataset into the subdirectory of "data" with the same dataset name;
+All of the C++ source code can be found in "MaxInfBRkNN" directory, the datasets can be downloaded from https://pan.baidu.com/s/1VYWplVpQ4VBCefCB_IbUhw?pwd=61Dh, and please put all the files of the corresponding dataset into the subdirectory of "data" with the same dataset name;
 
 ## Setup
 Open the "config.h" file in MaxInfBRkNN directory, and select the dataset (i.e., Gowalla or LasVegas) for testing;
